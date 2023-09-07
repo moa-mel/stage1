@@ -59,3 +59,15 @@ a:hover {
  .right{
     margin-left: 20px;
  }
+ @media screen and (max-width: 768px) {
+    .container{
+        margin-top: 45px;
+        width: 92%;
+        background-color:#ffffff;
+        height: 40%;
+        margin-left: -14px;
+    }
+    .right{
+margin-left: -15px;
+    }
+ }
